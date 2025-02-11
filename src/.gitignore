@@ -1,0 +1,10 @@
+annotated_images
+components
+hierarchy_files
+issues_cache
+readme_cache
+screenshots
+actions
+.idea
+__pycache__
+*.log
